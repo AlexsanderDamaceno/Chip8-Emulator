@@ -9,9 +9,9 @@ To Run use in terminal the following instructions:
  ./Chip8 size_screen clock Rom/gameName (For example : ./Chip8 20 2 Rom/tetris.ch8)
  
  Images of Emulator running:
-     ![](Images/Screenshot%20%20from%202020-08-28%2017-44-24.png)
-     ![](Images/Screenshot from 2020-08-28 17-46-48.png)
-     ![](Images/Screenshot from 2020-08-28 17-48-36.png
+     ![](Images/pong.png)
+     ![](Images/Space.png)
+     ![](Images/tetris.png)
  
  
  
